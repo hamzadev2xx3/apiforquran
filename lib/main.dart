@@ -1,4 +1,5 @@
 import 'package:apiforquran/screens/home_screen.dart';
+import 'package:apiforquran/screens/prayer_screen.dart';
 import 'package:apiforquran/screens/quran_screen.dart';
 import 'package:flutter/material.dart';
 

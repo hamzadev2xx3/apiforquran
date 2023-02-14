@@ -36,7 +36,7 @@ class ApiServices {
           list.add(Surah.fromJson(element));
         }
       });
-      print('ol ${list.length}');
+      print('Total Surahs ${list.length}');
       return list;
     } else {
       throw ("Can't get the Surah");
